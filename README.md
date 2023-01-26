@@ -50,6 +50,9 @@ print("\nFile Copied Successfully!")
 ```
 
 ### OUTPUT:
+![commandcopy](https://user-images.githubusercontent.com/120230694/214802192-4698cbfb-15e0-4be0-824f-580f4ddbb0e5.png)
+![copy1](https://user-images.githubusercontent.com/120230694/214802241-539c5694-a447-416b-a7b7-383aa1d959a7.png)
+![copy2](https://user-images.githubusercontent.com/120230694/214802268-27ee0647-676f-43dc-9c1f-8193da193364.png)
 
 
 
